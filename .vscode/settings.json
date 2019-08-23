@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/jrarnold/.pyenv/versions/3.7.4/bin/python"
+}
